@@ -1,0 +1,6 @@
+app/ebacshop.apks filter=lfs diff=lfs merge=lfs -text
+ebacshop.aab filter=lfs diff=lfs merge=lfs -text
+ebacshop.apks
+*.apks filter=lfs diff=lfs merge=lfs -text
+app/** filter=lfs diff=lfs merge=lfs -text
+node_modules/** filter=lfs diff=lfs merge=lfs -text
