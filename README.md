@@ -1,2 +1,1 @@
-# saucelabappium
 # saucelab-appium-mobiletest
